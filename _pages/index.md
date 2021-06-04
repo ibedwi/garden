@@ -7,6 +7,13 @@ permalink: /
 
 # Welcome! 🌱
 
+This is my personal digital garden.
+I use this as my public wiki and blog where I put thoughts, researches, and stories.
+
+Thanks to [(@vaillancourtmax)](https://twitter.com/vaillancourtmax) for a great template!
+
+
+# Sections
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>

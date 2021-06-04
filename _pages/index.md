@@ -17,6 +17,9 @@ Thanks to [(@vaillancourtmax)](https://twitter.com/vaillancourtmax) for a great 
 {% include notes_graph.html %}
 
 <style>
+.graph-wrapper {
+max-width: 300px
+}
   .wrapper {
     max-width: 46em;
   }

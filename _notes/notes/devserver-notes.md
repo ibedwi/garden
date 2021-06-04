@@ -1,6 +1,5 @@
 ---
 title: Devserver Notes
-permalink: /devserver-notes
 ---
 
 Overview: Summarize the information from a Reference Notes using your own words.

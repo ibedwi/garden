@@ -169,7 +169,7 @@
     graphWrapper.appendChild(element);
 
     const reportWindowSize = () => {
-      element.setAttribute("width", element.parentElement.offsetWidth);
+      element.setAttribute("width", window.innerWidth);
       element.setAttribute("height", window.innerHeight);
     };
 

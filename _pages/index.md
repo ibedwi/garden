@@ -12,10 +12,6 @@ I use this as my public wiki and blog where I put thoughts, researches, and stor
 
 Thanks to [(@vaillancourtmax)](https://twitter.com/vaillancourtmax) for a great template!
 
-# Notes
-
-{% include notes_graph.html %}
-
 <style>
 .graph-wrapper {
 max-width: 300px
